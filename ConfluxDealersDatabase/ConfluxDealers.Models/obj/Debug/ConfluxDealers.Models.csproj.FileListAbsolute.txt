@@ -1,0 +1,10 @@
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealers.Models\bin\Debug\ConfluxDealers.Models.dll
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealers.Models\bin\Debug\ConfluxDealers.Models.pdb
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealers.Models\obj\Debug\ConfluxDealers.Models.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealers.Models\obj\Debug\ConfluxDealers.Models.dll
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealers.Models\obj\Debug\ConfluxDealers.Models.pdb
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealers.Models\bin\Debug\ConfluxDealers.Models.dll.config
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealers.Models\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealers.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealers.Models\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealers.Models\bin\Debug\EntityFramework.SqlServer.xml
