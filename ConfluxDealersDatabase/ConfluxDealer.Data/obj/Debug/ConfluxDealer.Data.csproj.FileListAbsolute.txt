@@ -1,0 +1,12 @@
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\bin\Debug\ConfluxDealer.Data.dll.config
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\bin\Debug\ConfluxDealer.Data.dll
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\bin\Debug\ConfluxDealer.Data.pdb
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\bin\Debug\ConfluxDealers.Models.dll
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\bin\Debug\ConfluxDealers.Models.pdb
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\obj\Debug\ConfluxDealer.Data.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\obj\Debug\ConfluxDealer.Data.dll
+D:\Telerik Academy\Database\ConfluxDB\ConfluxDealersDatabase\ConfluxDealer.Data\obj\Debug\ConfluxDealer.Data.pdb
