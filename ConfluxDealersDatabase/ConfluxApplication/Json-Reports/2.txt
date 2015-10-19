@@ -1,0 +1,8 @@
+{
+"car-id" : 2,
+"car-model" : "Ooolt",
+"car-made" : "Tenawavs",
+"car-price" : 41693,00,
+"category-id" : 6,
+"shop-id" : 10,
+}

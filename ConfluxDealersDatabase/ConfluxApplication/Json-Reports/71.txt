@@ -1,0 +1,8 @@
+{
+"car-id" : 71,
+"car-model" : "Levytm",
+"car-made" : "Hsprjy",
+"car-price" : 70461,00,
+"category-id" : 8,
+"shop-id" : 19,
+}

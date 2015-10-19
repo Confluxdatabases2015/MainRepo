@@ -1,0 +1,8 @@
+{
+"car-id" : 62,
+"car-model" : "Mexry",
+"car-made" : "Npjyjwhph",
+"car-price" : 96690,00,
+"category-id" : 5,
+"shop-id" : 14,
+}

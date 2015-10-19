@@ -1,8 +1,8 @@
 {
 "car-id" : 1,
-"car-model" : "Kdwmxw",
-"car-made" : "Elyxrwpejn",
-"car-price" : 67583,00,
+"car-model" : "Qobn",
+"car-made" : "Idynemf",
+"car-price" : 47179,00,
 "category-id" : 8,
-"shop-id" : 4,
+"shop-id" : 2,
 }

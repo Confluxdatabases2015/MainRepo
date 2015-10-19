@@ -1,0 +1,8 @@
+{
+"car-id" : 79,
+"car-model" : "Jpab",
+"car-made" : "Kuanjdizh",
+"car-price" : 69127,00,
+"category-id" : 3,
+"shop-id" : 4,
+}

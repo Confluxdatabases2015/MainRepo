@@ -1,0 +1,8 @@
+{
+"car-id" : 83,
+"car-model" : "Uewdmzsdjy",
+"car-made" : "Oahscn",
+"car-price" : 50694,00,
+"category-id" : 5,
+"shop-id" : 9,
+}

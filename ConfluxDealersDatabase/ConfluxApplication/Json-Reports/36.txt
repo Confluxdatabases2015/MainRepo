@@ -1,0 +1,8 @@
+{
+"car-id" : 36,
+"car-model" : "Ofi",
+"car-made" : "Cbr",
+"car-price" : 10161,00,
+"category-id" : 8,
+"shop-id" : 4,
+}

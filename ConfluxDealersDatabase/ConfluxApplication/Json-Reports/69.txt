@@ -1,0 +1,8 @@
+{
+"car-id" : 69,
+"car-model" : "Btjsp",
+"car-made" : "Gexnzjx",
+"car-price" : 75636,00,
+"category-id" : 10,
+"shop-id" : 7,
+}

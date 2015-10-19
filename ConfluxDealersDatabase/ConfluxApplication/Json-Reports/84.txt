@@ -1,0 +1,8 @@
+{
+"car-id" : 84,
+"car-model" : "Jzc",
+"car-made" : "Ibltuh",
+"car-price" : 61539,00,
+"category-id" : 8,
+"shop-id" : 7,
+}

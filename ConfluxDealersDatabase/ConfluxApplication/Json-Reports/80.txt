@@ -1,0 +1,8 @@
+{
+"car-id" : 80,
+"car-model" : "Sszvt",
+"car-made" : "Fhzg",
+"car-price" : 25564,00,
+"category-id" : 3,
+"shop-id" : 8,
+}

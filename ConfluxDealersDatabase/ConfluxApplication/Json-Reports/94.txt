@@ -1,0 +1,8 @@
+{
+"car-id" : 94,
+"car-model" : "Ouz",
+"car-made" : "Vynk",
+"car-price" : 94356,00,
+"category-id" : 6,
+"shop-id" : 18,
+}

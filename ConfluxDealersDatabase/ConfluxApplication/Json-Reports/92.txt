@@ -1,0 +1,8 @@
+{
+"car-id" : 92,
+"car-model" : "Wspkrfiq",
+"car-made" : "Ajnzeszwo",
+"car-price" : 66683,00,
+"category-id" : 10,
+"shop-id" : 19,
+}

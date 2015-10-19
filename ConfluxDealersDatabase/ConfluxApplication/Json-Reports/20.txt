@@ -1,0 +1,8 @@
+{
+"car-id" : 20,
+"car-model" : "Dbigawk",
+"car-made" : "Sxbcns",
+"car-price" : 22022,00,
+"category-id" : 1,
+"shop-id" : 3,
+}

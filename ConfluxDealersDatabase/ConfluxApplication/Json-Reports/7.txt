@@ -1,0 +1,8 @@
+{
+"car-id" : 7,
+"car-model" : "Micu",
+"car-made" : "Mpqjqk",
+"car-price" : 95884,00,
+"category-id" : 5,
+"shop-id" : 12,
+}

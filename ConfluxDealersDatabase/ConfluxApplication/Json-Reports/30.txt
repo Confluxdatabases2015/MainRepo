@@ -1,0 +1,8 @@
+{
+"car-id" : 30,
+"car-model" : "Kwzpi",
+"car-made" : "Cftaa",
+"car-price" : 26630,00,
+"category-id" : 1,
+"shop-id" : 1,
+}

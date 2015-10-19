@@ -1,0 +1,8 @@
+{
+"car-id" : 93,
+"car-model" : "Goawc",
+"car-made" : "Migzr",
+"car-price" : 72319,00,
+"category-id" : 9,
+"shop-id" : 15,
+}

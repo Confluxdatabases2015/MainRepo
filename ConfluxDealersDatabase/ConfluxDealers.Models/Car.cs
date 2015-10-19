@@ -1,13 +1,19 @@
 ﻿namespace ConfluxDealers.Models
 {
+    using System.ComponentModel.DataAnnotations;
+
     public class Car
     {
+        [Key]
         public int Id { get; set; }
 
+        [StringLength(50)]
         public string Model { get; set; }
 
+        [StringLength(50)]
         public string Make { get; set; }
 
+        [Range(10000D, 150000D)]
         public decimal Price { get; set; }
 
         public int CategoryId { get; set; }

@@ -1,0 +1,8 @@
+{
+"car-id" : 68,
+"car-model" : "Eqknhenzql",
+"car-made" : "Tcmqcm",
+"car-price" : 98865,00,
+"category-id" : 10,
+"shop-id" : 12,
+}

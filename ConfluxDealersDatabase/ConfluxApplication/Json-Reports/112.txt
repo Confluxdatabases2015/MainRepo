@@ -1,0 +1,8 @@
+{
+"car-id" : 112,
+"car-model" : "Hjus",
+"car-made" : "Fzsh",
+"car-price" : 89146,00,
+"category-id" : 10,
+"shop-id" : 8,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 64,
+"car-model" : "Ipcga",
+"car-made" : "Tgcc",
+"car-price" : 42365,00,
+"category-id" : 7,
+"shop-id" : 15,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 48,
+"car-model" : "Eahpsv",
+"car-made" : "Bupb",
+"car-price" : 45010,00,
+"category-id" : 6,
+"shop-id" : 8,
+}

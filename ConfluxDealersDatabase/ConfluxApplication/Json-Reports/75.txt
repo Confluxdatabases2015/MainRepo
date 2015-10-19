@@ -1,0 +1,8 @@
+{
+"car-id" : 75,
+"car-model" : "Wralynrpe",
+"car-made" : "Aqdj",
+"car-price" : 43663,00,
+"category-id" : 1,
+"shop-id" : 10,
+}

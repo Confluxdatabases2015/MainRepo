@@ -1,0 +1,8 @@
+{
+"car-id" : 67,
+"car-model" : "Ehh",
+"car-made" : "Ovyjlykz",
+"car-price" : 74874,00,
+"category-id" : 9,
+"shop-id" : 15,
+}

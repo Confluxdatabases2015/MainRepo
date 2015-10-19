@@ -1,0 +1,8 @@
+{
+"car-id" : 37,
+"car-model" : "Akvvmx",
+"car-made" : "Obrkj",
+"car-price" : 77220,00,
+"category-id" : 5,
+"shop-id" : 18,
+}

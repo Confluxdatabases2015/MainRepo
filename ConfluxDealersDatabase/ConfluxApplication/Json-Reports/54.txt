@@ -1,0 +1,8 @@
+{
+"car-id" : 54,
+"car-model" : "Ipr",
+"car-made" : "Fnho",
+"car-price" : 28633,00,
+"category-id" : 3,
+"shop-id" : 12,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 47,
+"car-model" : "Pyjmhhc",
+"car-made" : "Xiudit",
+"car-price" : 74690,00,
+"category-id" : 3,
+"shop-id" : 8,
+}

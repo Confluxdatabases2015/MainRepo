@@ -1,0 +1,8 @@
+{
+"car-id" : 96,
+"car-model" : "Nqveilm",
+"car-made" : "Djug",
+"car-price" : 32277,00,
+"category-id" : 8,
+"shop-id" : 1,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 19,
+"car-model" : "Yzit",
+"car-made" : "Fuqozkltjd",
+"car-price" : 23952,00,
+"category-id" : 8,
+"shop-id" : 6,
+}

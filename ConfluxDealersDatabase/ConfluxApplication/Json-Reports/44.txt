@@ -1,0 +1,8 @@
+{
+"car-id" : 44,
+"car-model" : "Aiitvdnsul",
+"car-made" : "Mecsd",
+"car-price" : 82831,00,
+"category-id" : 1,
+"shop-id" : 14,
+}

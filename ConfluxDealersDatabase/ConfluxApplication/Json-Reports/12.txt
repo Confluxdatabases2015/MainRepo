@@ -1,0 +1,8 @@
+{
+"car-id" : 12,
+"car-model" : "Oxnpinwdh",
+"car-made" : "Rudkyju",
+"car-price" : 50087,00,
+"category-id" : 9,
+"shop-id" : 13,
+}

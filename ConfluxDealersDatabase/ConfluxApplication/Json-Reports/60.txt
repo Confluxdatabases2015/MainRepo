@@ -1,0 +1,8 @@
+{
+"car-id" : 60,
+"car-model" : "Jkmmjq",
+"car-made" : "Cvimp",
+"car-price" : 61013,00,
+"category-id" : 6,
+"shop-id" : 7,
+}

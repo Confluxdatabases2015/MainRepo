@@ -1,0 +1,8 @@
+{
+"car-id" : 28,
+"car-model" : "Wykt",
+"car-made" : "Fwqbols",
+"car-price" : 90751,00,
+"category-id" : 1,
+"shop-id" : 13,
+}
