@@ -5,6 +5,7 @@
     using System.Data.Entity;
     using ConfluxDealer.Data;
     using ConfluxDealer.Data.Migrations;
+    using Conflux.Exports;
 
     public class Startup
     {
@@ -13,7 +14,7 @@
             Database.SetInitializer(new MigrateDatabaseToLatestVersion<ConfluxDbContext, Configuration>());
 
             var db = new ConfluxDbContext();
-
+            JSON.SaveFile(db);
             Console.WriteLine(db.Cars.Count());
         }
     }

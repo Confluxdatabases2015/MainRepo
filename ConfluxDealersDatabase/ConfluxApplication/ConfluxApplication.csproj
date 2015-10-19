@@ -58,6 +58,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Conflux.Exports\Conflux.Exports.csproj">
+      <Project>{a1cb0805-622c-44ab-9fea-78d949e01ef8}</Project>
+      <Name>Conflux.Exports</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ConfluxDealer.Data\ConfluxDealer.Data.csproj">
       <Project>{d350b85d-7421-431d-a9b7-4aa4a59f3d19}</Project>
       <Name>ConfluxDealer.Data</Name>
