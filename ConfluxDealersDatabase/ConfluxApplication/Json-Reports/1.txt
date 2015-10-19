@@ -1,8 +1,8 @@
 {
 "car-id" : 1,
-"car-model" : "Lfoqbtq",
-"car-made" : "Fhcjizz",
-"car-price" : 11249.00,
-"category-id" : 4,
+"car-model" : "Kdwmxw",
+"car-made" : "Elyxrwpejn",
+"car-price" : 67583,00,
+"category-id" : 8,
 "shop-id" : 4,
 }

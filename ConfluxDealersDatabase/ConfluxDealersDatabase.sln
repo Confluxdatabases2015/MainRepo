@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfluxDealers.Models", "ConfluxDealers.Models\ConfluxDealers.Models.csproj", "{E3E58160-EDAA-44B2-8EA1-4D851AF10967}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfluxApplication", "ConfluxApplication\ConfluxApplication.csproj", "{AE0238E9-520E-4FF4-98C4-39C6F339DC33}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conflux.Exports", "Conflux.Exports\Conflux.Exports.csproj", "{A1CB0805-622C-44AB-9FEA-78D949E01EF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfluxPDF", "ConfluxPDF\ConfluxPDF.csproj", "{3A8ADC86-8FD4-4302-B358-C938734FEEBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A1CB0805-622C-44AB-9FEA-78D949E01EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1CB0805-622C-44AB-9FEA-78D949E01EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1CB0805-622C-44AB-9FEA-78D949E01EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8ADC86-8FD4-4302-B358-C938734FEEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8ADC86-8FD4-4302-B358-C938734FEEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8ADC86-8FD4-4302-B358-C938734FEEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8ADC86-8FD4-4302-B358-C938734FEEBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

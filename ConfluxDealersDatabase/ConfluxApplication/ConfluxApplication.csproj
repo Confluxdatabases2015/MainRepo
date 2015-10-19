@@ -70,6 +70,16 @@
       <Project>{e3e58160-edaa-44b2-8ea1-4d851af10967}</Project>
       <Name>ConfluxDealers.Models</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ConfluxPDF\ConfluxPDF.csproj">
+      <Project>{3a8adc86-8fd4-4302-b358-c938734feebe}</Project>
+      <Name>ConfluxPDF</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Json-Reports\1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PDF-Reports\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

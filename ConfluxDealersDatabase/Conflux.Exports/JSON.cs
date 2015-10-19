@@ -4,7 +4,6 @@
     using System.Linq;
     using ConfluxDealer.Data;
 
-
     public static class JSON
     {
         private const string carId = @"""car-id"" : ";
@@ -17,7 +16,7 @@
         public static void SaveFile(IConfluxDbContext dbContext)
         {
             StreamWriter streamWriter;
-	    var cars = dbContext.Cars.ToList();
+            var cars = dbContext.Cars.ToList();
 
             foreach (var car in cars)
             {
