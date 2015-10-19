@@ -1,7 +1,9 @@
 ﻿namespace Conflux.Exports
 {
-    using ConfluxDealer.Data;
     using System.IO;
+	using System.Linq;
+    using ConfluxDealer.Data;
+
 
     public static class JSON
     {
@@ -15,8 +17,9 @@
         public static void SaveFile(IConfluxDbContext dbContext)
         {
             StreamWriter streamWriter;
+			var cars = dbContext.Cars.ToList();
 
-            foreach (var car in dbContext.Cars)
+            foreach (var car in cars)
             {
                 streamWriter = new StreamWriter("../../Json-Reports/" + car.Id + ".txt", false);
                 using (streamWriter)
