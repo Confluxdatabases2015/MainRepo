@@ -1,8 +1,0 @@
-{
-"car-id" : 111,
-"car-model" : "Vgfb",
-"car-made" : "Plsifrkz",
-"car-price" : 94143,00,
-"category-id" : 3,
-"shop-id" : 12,
-}
