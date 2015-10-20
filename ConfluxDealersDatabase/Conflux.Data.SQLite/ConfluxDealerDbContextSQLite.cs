@@ -1,4 +1,4 @@
-﻿namespace Conflux.Data.SQLite
+﻿namespace ConfluxDealer.Data.SQLite
 {
     using System.Data.Entity;
     using ConfluxDealer.Models.SQLite;
