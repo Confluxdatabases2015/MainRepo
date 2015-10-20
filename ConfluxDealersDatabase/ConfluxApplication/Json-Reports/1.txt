@@ -1,8 +1,0 @@
-{
-"car-id" : 1,
-"car-model" : "Qobn",
-"car-made" : "Idynemf",
-"car-price" : 47179,00,
-"category-id" : 8,
-"shop-id" : 2,
-}
