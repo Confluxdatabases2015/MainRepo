@@ -1,0 +1,8 @@
+{
+"car-id" : 70,
+"car-model" : "Auqo",
+"car-made" : "Wtxspb",
+"car-price" : 32208.00,
+"category-id" : 1,
+"shop-id" : 11,
+}

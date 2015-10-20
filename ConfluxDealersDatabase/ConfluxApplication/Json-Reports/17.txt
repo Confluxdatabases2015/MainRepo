@@ -1,0 +1,8 @@
+{
+"car-id" : 17,
+"car-model" : "Ftdrefvy",
+"car-made" : "Wszleuwls",
+"car-price" : 61404.00,
+"category-id" : 10,
+"shop-id" : 18,
+}

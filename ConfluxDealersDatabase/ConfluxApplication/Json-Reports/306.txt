@@ -1,0 +1,8 @@
+{
+"car-id" : 306,
+"car-model" : "Efpumqm",
+"car-made" : "Rqultzch",
+"car-price" : 36481.00,
+"category-id" : 5,
+"shop-id" : 2,
+}

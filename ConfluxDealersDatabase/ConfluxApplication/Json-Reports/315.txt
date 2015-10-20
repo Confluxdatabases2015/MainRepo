@@ -1,0 +1,8 @@
+{
+"car-id" : 315,
+"car-model" : "Hfpyk",
+"car-made" : "Phltvruzh",
+"car-price" : 23661.00,
+"category-id" : 10,
+"shop-id" : 6,
+}

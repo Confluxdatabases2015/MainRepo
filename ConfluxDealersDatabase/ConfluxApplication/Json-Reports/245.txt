@@ -1,0 +1,8 @@
+{
+"car-id" : 245,
+"car-model" : "Kgcvaowvt",
+"car-made" : "Xtvrcsyaoi",
+"car-price" : 85567.00,
+"category-id" : 10,
+"shop-id" : 18,
+}

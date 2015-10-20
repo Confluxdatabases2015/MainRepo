@@ -1,0 +1,8 @@
+{
+"car-id" : 475,
+"car-model" : "Zcxji",
+"car-made" : "Cexmate",
+"car-price" : 49032.00,
+"category-id" : 6,
+"shop-id" : 2,
+}

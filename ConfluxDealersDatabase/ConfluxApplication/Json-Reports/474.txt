@@ -1,0 +1,8 @@
+{
+"car-id" : 474,
+"car-model" : "Pyahmv",
+"car-made" : "Fwa",
+"car-price" : 35499.00,
+"category-id" : 1,
+"shop-id" : 2,
+}

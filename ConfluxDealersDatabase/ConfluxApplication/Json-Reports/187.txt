@@ -1,0 +1,8 @@
+{
+"car-id" : 187,
+"car-model" : "Neqojj",
+"car-made" : "Exusciyjlf",
+"car-price" : 42028.00,
+"category-id" : 7,
+"shop-id" : 6,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 290,
+"car-model" : "Oipuptu",
+"car-made" : "Zfbgiwr",
+"car-price" : 11320.00,
+"category-id" : 3,
+"shop-id" : 2,
+}

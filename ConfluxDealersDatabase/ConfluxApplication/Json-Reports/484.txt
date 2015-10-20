@@ -1,0 +1,8 @@
+{
+"car-id" : 484,
+"car-model" : "Vusaeqli",
+"car-made" : "Knzh",
+"car-price" : 74528.00,
+"category-id" : 1,
+"shop-id" : 15,
+}

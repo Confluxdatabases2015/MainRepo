@@ -1,0 +1,8 @@
+{
+"car-id" : 533,
+"car-model" : "Rwux",
+"car-made" : "Hozbzk",
+"car-price" : 79873.00,
+"category-id" : 3,
+"shop-id" : 17,
+}

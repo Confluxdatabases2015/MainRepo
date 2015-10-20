@@ -1,0 +1,8 @@
+{
+"car-id" : 169,
+"car-model" : "Ugghvt",
+"car-made" : "Ouy",
+"car-price" : 39034.00,
+"category-id" : 8,
+"shop-id" : 6,
+}

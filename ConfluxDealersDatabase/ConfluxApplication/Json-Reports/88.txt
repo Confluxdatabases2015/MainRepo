@@ -1,0 +1,8 @@
+{
+"car-id" : 88,
+"car-model" : "Aesfsbpim",
+"car-made" : "Zpwcmkehn",
+"car-price" : 84590.00,
+"category-id" : 5,
+"shop-id" : 18,
+}

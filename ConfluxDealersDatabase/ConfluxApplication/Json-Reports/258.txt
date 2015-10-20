@@ -1,0 +1,8 @@
+{
+"car-id" : 258,
+"car-model" : "Apg",
+"car-made" : "Hlmfzbnic",
+"car-price" : 44592.00,
+"category-id" : 1,
+"shop-id" : 4,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 342,
+"car-model" : "Snkf",
+"car-made" : "Fglwl",
+"car-price" : 88262.00,
+"category-id" : 10,
+"shop-id" : 7,
+}

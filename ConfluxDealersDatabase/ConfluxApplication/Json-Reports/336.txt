@@ -1,0 +1,8 @@
+{
+"car-id" : 336,
+"car-model" : "Moexj",
+"car-made" : "Ciyzi",
+"car-price" : 18598.00,
+"category-id" : 5,
+"shop-id" : 20,
+}

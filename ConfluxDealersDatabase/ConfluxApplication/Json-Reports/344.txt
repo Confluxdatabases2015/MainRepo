@@ -1,0 +1,8 @@
+{
+"car-id" : 344,
+"car-model" : "Ydgo",
+"car-made" : "Rlvkp",
+"car-price" : 63099.00,
+"category-id" : 3,
+"shop-id" : 10,
+}

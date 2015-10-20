@@ -1,0 +1,8 @@
+{
+"car-id" : 221,
+"car-model" : "Osmru",
+"car-made" : "Xhxw",
+"car-price" : 53163.00,
+"category-id" : 5,
+"shop-id" : 7,
+}

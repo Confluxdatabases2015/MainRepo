@@ -1,0 +1,8 @@
+{
+"car-id" : 338,
+"car-model" : "Glrijngf",
+"car-made" : "Hfa",
+"car-price" : 85607.00,
+"category-id" : 1,
+"shop-id" : 10,
+}

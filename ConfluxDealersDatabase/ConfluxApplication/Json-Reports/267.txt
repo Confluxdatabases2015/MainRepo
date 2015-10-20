@@ -1,0 +1,8 @@
+{
+"car-id" : 267,
+"car-model" : "Xncz",
+"car-made" : "Tocacldt",
+"car-price" : 77485.00,
+"category-id" : 1,
+"shop-id" : 6,
+}

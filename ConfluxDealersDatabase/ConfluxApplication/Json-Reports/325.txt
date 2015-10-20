@@ -1,0 +1,8 @@
+{
+"car-id" : 325,
+"car-model" : "Vezla",
+"car-made" : "Edlovxj",
+"car-price" : 65219.00,
+"category-id" : 5,
+"shop-id" : 6,
+}

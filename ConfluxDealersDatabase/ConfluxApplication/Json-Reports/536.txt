@@ -1,0 +1,8 @@
+{
+"car-id" : 536,
+"car-model" : "Zgtuvsd",
+"car-made" : "Mednnu",
+"car-price" : 31670.00,
+"category-id" : 8,
+"shop-id" : 1,
+}

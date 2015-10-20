@@ -1,0 +1,8 @@
+{
+"car-id" : 530,
+"car-model" : "Wtymjdev",
+"car-made" : "Xdrgs",
+"car-price" : 30020.00,
+"category-id" : 3,
+"shop-id" : 10,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 51,
+"car-model" : "Whp",
+"car-made" : "Tuhqiaoki",
+"car-price" : 65379.00,
+"category-id" : 10,
+"shop-id" : 17,
+}

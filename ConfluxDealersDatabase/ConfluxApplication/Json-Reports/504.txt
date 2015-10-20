@@ -1,0 +1,8 @@
+{
+"car-id" : 504,
+"car-model" : "Hiusw",
+"car-made" : "Zcwel",
+"car-price" : 62750.00,
+"category-id" : 3,
+"shop-id" : 20,
+}

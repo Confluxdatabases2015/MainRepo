@@ -1,0 +1,8 @@
+{
+"car-id" : 230,
+"car-model" : "Ynszb",
+"car-made" : "Aoouq",
+"car-price" : 38710.00,
+"category-id" : 2,
+"shop-id" : 5,
+}

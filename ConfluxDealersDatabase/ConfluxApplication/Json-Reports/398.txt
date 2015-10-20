@@ -1,0 +1,8 @@
+{
+"car-id" : 398,
+"car-model" : "Llpu",
+"car-made" : "Fzeaztjrc",
+"car-price" : 69133.00,
+"category-id" : 9,
+"shop-id" : 16,
+}

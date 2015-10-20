@@ -1,0 +1,8 @@
+{
+"car-id" : 196,
+"car-model" : "Fminzdds",
+"car-made" : "Ohjrq",
+"car-price" : 75176.00,
+"category-id" : 9,
+"shop-id" : 6,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 226,
+"car-model" : "Tefyopphrb",
+"car-made" : "Xfnt",
+"car-price" : 14152.00,
+"category-id" : 1,
+"shop-id" : 10,
+}

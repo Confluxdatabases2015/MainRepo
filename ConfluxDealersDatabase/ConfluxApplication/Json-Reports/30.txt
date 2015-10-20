@@ -1,0 +1,8 @@
+{
+"car-id" : 30,
+"car-model" : "Fvj",
+"car-made" : "Pwmi",
+"car-price" : 78942.00,
+"category-id" : 7,
+"shop-id" : 18,
+}

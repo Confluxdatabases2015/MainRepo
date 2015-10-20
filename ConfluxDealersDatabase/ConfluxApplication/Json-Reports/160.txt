@@ -1,0 +1,8 @@
+{
+"car-id" : 160,
+"car-model" : "Idaf",
+"car-made" : "Xotn",
+"car-price" : 86204.00,
+"category-id" : 6,
+"shop-id" : 7,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 285,
+"car-model" : "Zmtbxgpiv",
+"car-made" : "Vusvdi",
+"car-price" : 70098.00,
+"category-id" : 5,
+"shop-id" : 8,
+}

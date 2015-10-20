@@ -1,0 +1,8 @@
+{
+"car-id" : 171,
+"car-model" : "Cnzean",
+"car-made" : "Kudrbwa",
+"car-price" : 35720.00,
+"category-id" : 4,
+"shop-id" : 13,
+}

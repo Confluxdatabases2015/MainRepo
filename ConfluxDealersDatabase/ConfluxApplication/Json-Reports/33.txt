@@ -1,0 +1,8 @@
+{
+"car-id" : 33,
+"car-model" : "Rpecwr",
+"car-made" : "Xbrq",
+"car-price" : 18967.00,
+"category-id" : 10,
+"shop-id" : 19,
+}

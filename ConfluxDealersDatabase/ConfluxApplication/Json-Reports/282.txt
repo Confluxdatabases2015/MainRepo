@@ -1,0 +1,8 @@
+{
+"car-id" : 282,
+"car-model" : "Sckghv",
+"car-made" : "Wvtec",
+"car-price" : 43811.00,
+"category-id" : 2,
+"shop-id" : 16,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 260,
+"car-model" : "Hjvmf",
+"car-made" : "Ivanccemm",
+"car-price" : 34993.00,
+"category-id" : 3,
+"shop-id" : 9,
+}

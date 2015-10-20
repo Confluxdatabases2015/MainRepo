@@ -1,0 +1,8 @@
+{
+"car-id" : 535,
+"car-model" : "Bfi",
+"car-made" : "Zcx",
+"car-price" : 66590.00,
+"category-id" : 1,
+"shop-id" : 1,
+}

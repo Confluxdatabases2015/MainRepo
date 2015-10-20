@@ -1,0 +1,8 @@
+{
+"car-id" : 198,
+"car-model" : "Osmbzrycf",
+"car-made" : "Tsl",
+"car-price" : 93678.00,
+"category-id" : 9,
+"shop-id" : 10,
+}

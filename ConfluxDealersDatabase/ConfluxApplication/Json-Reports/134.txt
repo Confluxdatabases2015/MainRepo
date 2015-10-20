@@ -1,0 +1,8 @@
+{
+"car-id" : 134,
+"car-model" : "Cmleaqie",
+"car-made" : "Pxcypl",
+"car-price" : 75712.00,
+"category-id" : 1,
+"shop-id" : 6,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 23,
+"car-model" : "Ezsjeiap",
+"car-made" : "Hrbbk",
+"car-price" : 53052.00,
+"category-id" : 4,
+"shop-id" : 19,
+}

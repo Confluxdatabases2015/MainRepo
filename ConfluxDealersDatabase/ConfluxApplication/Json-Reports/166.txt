@@ -1,0 +1,8 @@
+{
+"car-id" : 166,
+"car-model" : "Gahiyqloxg",
+"car-made" : "Deu",
+"car-price" : 89155.00,
+"category-id" : 5,
+"shop-id" : 17,
+}

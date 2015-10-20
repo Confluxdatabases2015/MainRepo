@@ -1,0 +1,8 @@
+{
+"car-id" : 505,
+"car-model" : "Fnwxhcjz",
+"car-made" : "Rvy",
+"car-price" : 33869.00,
+"category-id" : 3,
+"shop-id" : 11,
+}

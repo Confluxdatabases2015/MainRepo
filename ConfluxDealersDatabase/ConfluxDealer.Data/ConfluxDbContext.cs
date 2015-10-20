@@ -19,5 +19,7 @@
         public virtual IDbSet<Category> Categories { get; set; }
 
         public virtual IDbSet<Town> Towns { get; set; }
+
+        public virtual IDbSet<DealerExpense> DealerExpenses { get; set; }
     }
 }

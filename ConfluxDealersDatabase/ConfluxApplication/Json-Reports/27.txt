@@ -1,0 +1,8 @@
+{
+"car-id" : 27,
+"car-model" : "Dlayjav",
+"car-made" : "Rsf",
+"car-price" : 13776.00,
+"category-id" : 7,
+"shop-id" : 3,
+}

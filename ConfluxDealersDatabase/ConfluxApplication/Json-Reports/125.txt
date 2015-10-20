@@ -1,0 +1,8 @@
+{
+"car-id" : 125,
+"car-model" : "Vsfa",
+"car-made" : "Dwww",
+"car-price" : 88870.00,
+"category-id" : 6,
+"shop-id" : 13,
+}

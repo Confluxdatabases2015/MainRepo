@@ -1,0 +1,8 @@
+{
+"car-id" : 64,
+"car-model" : "Xitfffiyzd",
+"car-made" : "Omvvla",
+"car-price" : 27959.00,
+"category-id" : 8,
+"shop-id" : 6,
+}

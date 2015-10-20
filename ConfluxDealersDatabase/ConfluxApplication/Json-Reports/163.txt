@@ -1,0 +1,8 @@
+{
+"car-id" : 163,
+"car-model" : "Umtgaevuz",
+"car-made" : "Vqlys",
+"car-price" : 46095.00,
+"category-id" : 1,
+"shop-id" : 13,
+}

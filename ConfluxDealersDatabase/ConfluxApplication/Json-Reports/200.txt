@@ -1,0 +1,8 @@
+{
+"car-id" : 200,
+"car-model" : "Lzpkn",
+"car-made" : "Lnccdmpabf",
+"car-price" : 34426.00,
+"category-id" : 8,
+"shop-id" : 2,
+}

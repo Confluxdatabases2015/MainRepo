@@ -1,0 +1,8 @@
+{
+"car-id" : 302,
+"car-model" : "Wyakdyxp",
+"car-made" : "Bhngh",
+"car-price" : 97753.00,
+"category-id" : 9,
+"shop-id" : 2,
+}

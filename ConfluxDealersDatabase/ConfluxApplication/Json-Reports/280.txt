@@ -1,0 +1,8 @@
+{
+"car-id" : 280,
+"car-model" : "Xjlss",
+"car-made" : "Fgxr",
+"car-price" : 89146.00,
+"category-id" : 3,
+"shop-id" : 18,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 40,
+"car-model" : "Yocdddy",
+"car-made" : "Yompiyakdf",
+"car-price" : 57540.00,
+"category-id" : 7,
+"shop-id" : 13,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 502,
+"car-model" : "Tfhnw",
+"car-made" : "Phgut",
+"car-price" : 57523.00,
+"category-id" : 5,
+"shop-id" : 14,
+}

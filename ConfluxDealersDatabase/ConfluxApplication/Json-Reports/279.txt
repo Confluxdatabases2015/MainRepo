@@ -1,0 +1,8 @@
+{
+"car-id" : 279,
+"car-model" : "Tiiclmoab",
+"car-made" : "Frusqvitg",
+"car-price" : 12370.00,
+"category-id" : 10,
+"shop-id" : 4,
+}

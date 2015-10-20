@@ -1,0 +1,8 @@
+{
+"car-id" : 490,
+"car-model" : "Zojt",
+"car-made" : "Empxrh",
+"car-price" : 20233.00,
+"category-id" : 5,
+"shop-id" : 8,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 450,
+"car-model" : "Zjr",
+"car-made" : "Yhzahjwi",
+"car-price" : 58408.00,
+"category-id" : 10,
+"shop-id" : 13,
+}

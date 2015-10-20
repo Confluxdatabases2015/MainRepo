@@ -1,0 +1,8 @@
+{
+"car-id" : 102,
+"car-model" : "Amtfs",
+"car-made" : "Wsongzun",
+"car-price" : 54831.00,
+"category-id" : 2,
+"shop-id" : 1,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 524,
+"car-model" : "Fwoptoi",
+"car-made" : "Xcfwgkb",
+"car-price" : 12728.00,
+"category-id" : 2,
+"shop-id" : 17,
+}

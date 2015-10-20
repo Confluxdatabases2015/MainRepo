@@ -10,6 +10,6 @@ namespace ConfluxDealer.Data
         IDbSet<Dealer> Dealers { get; set; }
         IDbSet<Shop> Shops { get; set; }
         IDbSet<Town> Towns { get; set; }
-        
+        IDbSet<DealerExpense> DealerExpenses { get; set; }
     }
 }

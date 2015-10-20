@@ -1,0 +1,8 @@
+{
+"car-id" : 60,
+"car-model" : "Boz",
+"car-made" : "Kmocrx",
+"car-price" : 18602.00,
+"category-id" : 3,
+"shop-id" : 18,
+}

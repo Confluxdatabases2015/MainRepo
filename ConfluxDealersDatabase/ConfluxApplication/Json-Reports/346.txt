@@ -1,0 +1,8 @@
+{
+"car-id" : 346,
+"car-model" : "Sral",
+"car-made" : "Otik",
+"car-price" : 22189.00,
+"category-id" : 5,
+"shop-id" : 17,
+}

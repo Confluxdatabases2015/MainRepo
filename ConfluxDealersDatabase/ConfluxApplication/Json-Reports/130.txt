@@ -1,0 +1,8 @@
+{
+"car-id" : 130,
+"car-model" : "Twulgzvizn",
+"car-made" : "Andtyz",
+"car-price" : 66209.00,
+"category-id" : 6,
+"shop-id" : 1,
+}

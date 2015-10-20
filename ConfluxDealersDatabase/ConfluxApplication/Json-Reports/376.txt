@@ -1,0 +1,8 @@
+{
+"car-id" : 376,
+"car-model" : "Vpu",
+"car-made" : "Yxqm",
+"car-price" : 72070.00,
+"category-id" : 8,
+"shop-id" : 5,
+}

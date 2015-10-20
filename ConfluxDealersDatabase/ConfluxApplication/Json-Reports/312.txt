@@ -1,0 +1,8 @@
+{
+"car-id" : 312,
+"car-model" : "Utn",
+"car-made" : "Zrdybae",
+"car-price" : 61737.00,
+"category-id" : 4,
+"shop-id" : 5,
+}

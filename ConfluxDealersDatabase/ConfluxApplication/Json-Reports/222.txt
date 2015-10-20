@@ -1,0 +1,8 @@
+{
+"car-id" : 222,
+"car-model" : "Zuu",
+"car-made" : "Bgcgtuf",
+"car-price" : 99766.00,
+"category-id" : 7,
+"shop-id" : 12,
+}

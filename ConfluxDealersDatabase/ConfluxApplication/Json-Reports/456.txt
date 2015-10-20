@@ -1,0 +1,8 @@
+{
+"car-id" : 456,
+"car-model" : "Kpckg",
+"car-made" : "Znd",
+"car-price" : 48041.00,
+"category-id" : 9,
+"shop-id" : 11,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 534,
+"car-model" : "Xtagh",
+"car-made" : "Bie",
+"car-price" : 95307.00,
+"category-id" : 6,
+"shop-id" : 2,
+}

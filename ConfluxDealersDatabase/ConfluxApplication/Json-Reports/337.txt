@@ -1,0 +1,8 @@
+{
+"car-id" : 337,
+"car-model" : "Vauiewxa",
+"car-made" : "Koesfnnx",
+"car-price" : 29133.00,
+"category-id" : 6,
+"shop-id" : 7,
+}

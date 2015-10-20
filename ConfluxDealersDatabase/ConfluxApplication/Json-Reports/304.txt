@@ -1,0 +1,8 @@
+{
+"car-id" : 304,
+"car-model" : "Imepy",
+"car-made" : "Abritufys",
+"car-price" : 71471.00,
+"category-id" : 6,
+"shop-id" : 20,
+}

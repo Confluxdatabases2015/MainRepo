@@ -1,0 +1,8 @@
+{
+"car-id" : 350,
+"car-model" : "Lavpie",
+"car-made" : "Uwbc",
+"car-price" : 33239.00,
+"category-id" : 10,
+"shop-id" : 8,
+}

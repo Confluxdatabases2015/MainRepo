@@ -1,0 +1,8 @@
+{
+"car-id" : 170,
+"car-model" : "Njqvusezhn",
+"car-made" : "Natpwg",
+"car-price" : 10227.00,
+"category-id" : 9,
+"shop-id" : 19,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 7,
+"car-model" : "Ngnhxtfrh",
+"car-made" : "Dlmssdmvgt",
+"car-price" : 68977.00,
+"category-id" : 9,
+"shop-id" : 12,
+}

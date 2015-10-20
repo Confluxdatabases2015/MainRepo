@@ -1,0 +1,8 @@
+{
+"car-id" : 538,
+"car-model" : "Fkdztruw",
+"car-made" : "Yau",
+"car-price" : 69069.00,
+"category-id" : 7,
+"shop-id" : 17,
+}

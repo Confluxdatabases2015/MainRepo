@@ -1,0 +1,8 @@
+{
+"car-id" : 100,
+"car-model" : "Pubeow",
+"car-made" : "Baraslhcri",
+"car-price" : 36600.00,
+"category-id" : 3,
+"shop-id" : 18,
+}

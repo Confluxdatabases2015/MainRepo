@@ -75,6 +75,24 @@ namespace ConfluxDealer.Data.Migrations
             }
 
             context.SaveChanges();
+            
+            for (int i = 0; i < 10; i++)
+            {
+                context.DealerExpenses.Add(new DealerExpense()
+                {
+                    Month = RandomDay(),
+                    Value = (decimal)Rand.Next(10000, 100000),
+                    DealerName = RandomString(10) 
+                });
+
+            }
+
+            foreach (var item in context.DealerExpenses)
+            {
+                Console.WriteLine("month: {0}\tvalue: {1}\tdealerName: {2}", item.Month, item.Value, item.DealerName);  
+            }
+
+            context.SaveChanges();
         }
 
         private string RandomString(int size)
@@ -90,6 +108,13 @@ namespace ConfluxDealer.Data.Migrations
             }
 
             return builder.ToString();
+        }
+
+        private DateTime RandomDay()
+        {
+            int seed = (int)DateTime.Now.Ticks;
+            int days = seed % 90;
+            return DateTime.Now.AddDays(days);
         }
     }
 }

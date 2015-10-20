@@ -1,0 +1,8 @@
+{
+"car-id" : 19,
+"car-model" : "Pzi",
+"car-made" : "Nsqvirzx",
+"car-price" : 15868.00,
+"category-id" : 1,
+"shop-id" : 16,
+}

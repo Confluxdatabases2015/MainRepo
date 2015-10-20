@@ -1,0 +1,8 @@
+{
+"car-id" : 69,
+"car-model" : "Ssoysla",
+"car-made" : "Spiyturjer",
+"car-price" : 96240.00,
+"category-id" : 10,
+"shop-id" : 5,
+}

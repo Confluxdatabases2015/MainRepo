@@ -1,0 +1,8 @@
+{
+"car-id" : 142,
+"car-model" : "Zatsyk",
+"car-made" : "Lrtpfpjtu",
+"car-price" : 83730.00,
+"category-id" : 2,
+"shop-id" : 18,
+}

@@ -1,0 +1,8 @@
+{
+"car-id" : 362,
+"car-model" : "Rtcgjylnxa",
+"car-made" : "Ujnh",
+"car-price" : 54316.00,
+"category-id" : 1,
+"shop-id" : 17,
+}

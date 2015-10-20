@@ -1,0 +1,8 @@
+{
+"car-id" : 425,
+"car-model" : "Weqoae",
+"car-made" : "Lmaiqvu",
+"car-price" : 48968.00,
+"category-id" : 10,
+"shop-id" : 15,
+}

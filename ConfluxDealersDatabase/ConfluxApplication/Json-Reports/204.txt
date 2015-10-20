@@ -1,0 +1,8 @@
+{
+"car-id" : 204,
+"car-model" : "Tfhlatn",
+"car-made" : "Qbmvnibjak",
+"car-price" : 81086.00,
+"category-id" : 9,
+"shop-id" : 5,
+}

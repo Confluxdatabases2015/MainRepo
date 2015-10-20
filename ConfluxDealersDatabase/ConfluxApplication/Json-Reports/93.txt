@@ -1,0 +1,8 @@
+{
+"car-id" : 93,
+"car-model" : "Kfa",
+"car-made" : "Fcx",
+"car-price" : 38381.00,
+"category-id" : 8,
+"shop-id" : 17,
+}

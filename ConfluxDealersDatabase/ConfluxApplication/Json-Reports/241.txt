@@ -1,0 +1,8 @@
+{
+"car-id" : 241,
+"car-model" : "Xmmiztspsi",
+"car-made" : "Picqupwlr",
+"car-price" : 53607.00,
+"category-id" : 9,
+"shop-id" : 7,
+}

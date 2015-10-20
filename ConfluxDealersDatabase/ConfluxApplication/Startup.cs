@@ -15,6 +15,7 @@
             Database.SetInitializer(new MigrateDatabaseToLatestVersion<ConfluxDbContext, Configuration>());
 
             var db = new ConfluxDbContext();
+
             JSON.SaveFile(db);
 
             var carPrices = db.Cars
@@ -28,6 +29,10 @@
                 .ToList();
             PDFReporter.CreateReport(carPricesInRange, "../../PDF-Reports/car-price-between-15000-and-25000.pdf", "Car prices between 15000 and 25000");
             Console.WriteLine("Car prices between 15000 and 25000 report created.");
+
+            XmlReport xlmReport = new XmlReport();
+            bool success = xlmReport.GenerateXmlReport("../../xmlReport.xml");
+            Console.WriteLine("XML Report created at: '../ConfluxApplication/xmlReport.xml'");
 
             db.Dispose();
         }

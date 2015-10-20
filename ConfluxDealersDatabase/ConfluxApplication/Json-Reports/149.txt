@@ -1,0 +1,8 @@
+{
+"car-id" : 149,
+"car-model" : "Kmt",
+"car-made" : "Tpbtoeuozm",
+"car-price" : 39293.00,
+"category-id" : 8,
+"shop-id" : 1,
+}

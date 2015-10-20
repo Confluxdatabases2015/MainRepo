@@ -1,0 +1,8 @@
+{
+"car-id" : 45,
+"car-model" : "Dxfalcncn",
+"car-made" : "Baxunyt",
+"car-price" : 55304.00,
+"category-id" : 9,
+"shop-id" : 5,
+}

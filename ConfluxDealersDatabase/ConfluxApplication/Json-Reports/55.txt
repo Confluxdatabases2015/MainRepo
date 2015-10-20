@@ -1,0 +1,8 @@
+{
+"car-id" : 55,
+"car-model" : "Oygcxjfxyw",
+"car-made" : "Afgp",
+"car-price" : 19169.00,
+"category-id" : 3,
+"shop-id" : 9,
+}

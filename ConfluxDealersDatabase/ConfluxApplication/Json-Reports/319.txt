@@ -1,0 +1,8 @@
+{
+"car-id" : 319,
+"car-model" : "Hfztlts",
+"car-made" : "Aunudj",
+"car-price" : 65781.00,
+"category-id" : 4,
+"shop-id" : 12,
+}

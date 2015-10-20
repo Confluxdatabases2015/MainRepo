@@ -1,0 +1,8 @@
+{
+"car-id" : 391,
+"car-model" : "Pczhedsow",
+"car-made" : "Teevcezye",
+"car-price" : 16262.00,
+"category-id" : 9,
+"shop-id" : 2,
+}

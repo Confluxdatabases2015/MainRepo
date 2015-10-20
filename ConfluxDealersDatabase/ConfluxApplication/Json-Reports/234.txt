@@ -1,0 +1,8 @@
+{
+"car-id" : 234,
+"car-model" : "Loe",
+"car-made" : "Rhlgrxekxm",
+"car-price" : 11589.00,
+"category-id" : 6,
+"shop-id" : 20,
+}

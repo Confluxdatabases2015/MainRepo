@@ -1,0 +1,8 @@
+{
+"car-id" : 218,
+"car-model" : "Rzhekuufjz",
+"car-made" : "Ctybaso",
+"car-price" : 37093.00,
+"category-id" : 10,
+"shop-id" : 20,
+}

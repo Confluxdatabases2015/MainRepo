@@ -1,0 +1,8 @@
+{
+"car-id" : 233,
+"car-model" : "Rjuubdngza",
+"car-made" : "Lbfarga",
+"car-price" : 99028.00,
+"category-id" : 2,
+"shop-id" : 1,
+}

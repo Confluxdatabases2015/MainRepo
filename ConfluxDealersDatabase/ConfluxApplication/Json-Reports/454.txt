@@ -1,0 +1,8 @@
+{
+"car-id" : 454,
+"car-model" : "Buaquvgrvx",
+"car-made" : "Depon",
+"car-price" : 55256.00,
+"category-id" : 10,
+"shop-id" : 20,
+}

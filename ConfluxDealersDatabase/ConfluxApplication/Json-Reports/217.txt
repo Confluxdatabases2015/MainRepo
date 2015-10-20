@@ -1,0 +1,8 @@
+{
+"car-id" : 217,
+"car-model" : "Quijenwkj",
+"car-made" : "Obj",
+"car-price" : 76228.00,
+"category-id" : 8,
+"shop-id" : 18,
+}

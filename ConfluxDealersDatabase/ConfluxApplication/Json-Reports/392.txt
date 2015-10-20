@@ -1,0 +1,8 @@
+{
+"car-id" : 392,
+"car-model" : "Jft",
+"car-made" : "Rlgkj",
+"car-price" : 78026.00,
+"category-id" : 6,
+"shop-id" : 17,
+}

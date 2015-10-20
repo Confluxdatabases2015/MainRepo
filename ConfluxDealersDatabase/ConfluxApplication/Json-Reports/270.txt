@@ -1,0 +1,8 @@
+{
+"car-id" : 270,
+"car-model" : "Cchtswxrq",
+"car-made" : "Vzyybe",
+"car-price" : 98540.00,
+"category-id" : 5,
+"shop-id" : 11,
+}
