@@ -1,8 +1,0 @@
-{
-"car-id" : 105,
-"car-model" : "Pncmjkolc",
-"car-made" : "Sbdghzgq",
-"car-price" : 50680,00,
-"category-id" : 3,
-"shop-id" : 4,
-}
