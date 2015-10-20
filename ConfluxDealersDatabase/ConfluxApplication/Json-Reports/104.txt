@@ -1,8 +1,0 @@
-{
-"car-id" : 104,
-"car-model" : "Jammnchel",
-"car-made" : "Zsqqvckh",
-"car-price" : 32662,00,
-"category-id" : 5,
-"shop-id" : 5,
-}
