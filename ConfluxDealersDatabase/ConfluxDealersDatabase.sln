@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfluxDealers.Models", "ConfluxDealers.Models\ConfluxDealers.Models.csproj", "{E3E58160-EDAA-44B2-8EA1-4D851AF10967}"
 EndProject
@@ -12,6 +12,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conflux.Exports", "Conflux.Exports\Conflux.Exports.csproj", "{A1CB0805-622C-44AB-9FEA-78D949E01EF8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfluxPDF", "ConfluxPDF\ConfluxPDF.csproj", "{3A8ADC86-8FD4-4302-B358-C938734FEEBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfluxDealer.Models.SQLite", "Conflux.Models.SQLite\ConfluxDealer.Models.SQLite.csproj", "{9D2534A2-84D2-4D3F-A412-613183C9D6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfluxDealer.Data.SQLite", "Conflux.Data.SQLite\ConfluxDealer.Data.SQLite.csproj", "{2792BEF6-987D-4CAD-A928-15CA8168770B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfluxDealer.Exports.ExcelExporter", "ConfluxDealer.Exports.ExcelExporter\ConfluxDealer.Exports.ExcelExporter.csproj", "{ABE05261-1C02-40BB-9D43-7F371DC6A986}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{3A8ADC86-8FD4-4302-B358-C938734FEEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A8ADC86-8FD4-4302-B358-C938734FEEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A8ADC86-8FD4-4302-B358-C938734FEEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2534A2-84D2-4D3F-A412-613183C9D6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2534A2-84D2-4D3F-A412-613183C9D6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2534A2-84D2-4D3F-A412-613183C9D6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2534A2-84D2-4D3F-A412-613183C9D6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2792BEF6-987D-4CAD-A928-15CA8168770B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2792BEF6-987D-4CAD-A928-15CA8168770B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2792BEF6-987D-4CAD-A928-15CA8168770B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2792BEF6-987D-4CAD-A928-15CA8168770B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE05261-1C02-40BB-9D43-7F371DC6A986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE05261-1C02-40BB-9D43-7F371DC6A986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE05261-1C02-40BB-9D43-7F371DC6A986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE05261-1C02-40BB-9D43-7F371DC6A986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
