@@ -1,6 +1,7 @@
 ﻿namespace ConfluxDealers.Models
 {
     using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
 
     public class Shop
     {
@@ -11,8 +12,10 @@
             this.cars = new HashSet<Car>();
         }
 
+        [Key]
         public int Id { get; set; }
 
+        [MaxLength(50)]
         public string Name { get; set; }
 
         public int TownId { get; set; }
