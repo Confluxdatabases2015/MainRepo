@@ -1,8 +1,0 @@
-{
-"car-id" : 107,
-"car-model" : "Majysq",
-"car-made" : "Vhoyevz",
-"car-price" : 22970,00,
-"category-id" : 8,
-"shop-id" : 9,
-}
