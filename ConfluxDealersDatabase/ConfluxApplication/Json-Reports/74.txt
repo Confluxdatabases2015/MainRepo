@@ -1,8 +1,0 @@
-{
-"car-id" : 74,
-"car-model" : "Gdjmti",
-"car-made" : "Clxqw",
-"car-price" : 16959.00,
-"category-id" : 10,
-"shop-id" : 7,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 440,
-"car-model" : "Qsjhnftl",
-"car-made" : "Haiz",
-"car-price" : 56362.00,
-"category-id" : 5,
-"shop-id" : 12,
-}

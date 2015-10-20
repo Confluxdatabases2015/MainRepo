@@ -1,8 +1,0 @@
-{
-"car-id" : 421,
-"car-model" : "Rtwmlca",
-"car-made" : "Quudtvrtrt",
-"car-price" : 60875.00,
-"category-id" : 7,
-"shop-id" : 14,
-}

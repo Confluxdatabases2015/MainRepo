@@ -1,8 +1,0 @@
-{
-"car-id" : 509,
-"car-model" : "Gzxpumk",
-"car-made" : "Psvrokzijg",
-"car-price" : 23596.00,
-"category-id" : 7,
-"shop-id" : 11,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 389,
-"car-model" : "Rctpwza",
-"car-made" : "Nvbbbuzycz",
-"car-price" : 11194.00,
-"category-id" : 2,
-"shop-id" : 16,
-}

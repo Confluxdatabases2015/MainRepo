@@ -1,8 +1,0 @@
-{
-"car-id" : 29,
-"car-model" : "Dbfxmslrs",
-"car-made" : "Osw",
-"car-price" : 57513.00,
-"category-id" : 6,
-"shop-id" : 6,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 501,
-"car-model" : "Vphentx",
-"car-made" : "Kzpae",
-"car-price" : 39858.00,
-"category-id" : 6,
-"shop-id" : 16,
-}

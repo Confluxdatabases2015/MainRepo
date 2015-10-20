@@ -1,8 +1,0 @@
-{
-"car-id" : 380,
-"car-model" : "Nph",
-"car-made" : "Xrzy",
-"car-price" : 96142.00,
-"category-id" : 7,
-"shop-id" : 14,
-}

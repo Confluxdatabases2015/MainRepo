@@ -1,8 +1,0 @@
-{
-"car-id" : 463,
-"car-model" : "Hyei",
-"car-made" : "Mtaor",
-"car-price" : 54065.00,
-"category-id" : 7,
-"shop-id" : 4,
-}

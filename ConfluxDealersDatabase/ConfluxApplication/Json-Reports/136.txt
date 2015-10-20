@@ -1,8 +1,0 @@
-{
-"car-id" : 136,
-"car-model" : "Sufyrysui",
-"car-made" : "Llfzigzge",
-"car-price" : 57044.00,
-"category-id" : 5,
-"shop-id" : 14,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 361,
-"car-model" : "Flgyp",
-"car-made" : "Obwvtjkexh",
-"car-price" : 49812.00,
-"category-id" : 6,
-"shop-id" : 16,
-}

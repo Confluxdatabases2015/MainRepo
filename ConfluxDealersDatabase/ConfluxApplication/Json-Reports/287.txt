@@ -1,8 +1,0 @@
-{
-"car-id" : 287,
-"car-model" : "Grmaeji",
-"car-made" : "Oibydkwc",
-"car-price" : 36225.00,
-"category-id" : 9,
-"shop-id" : 9,
-}

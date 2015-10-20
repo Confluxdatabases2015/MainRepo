@@ -1,8 +1,0 @@
-{
-"car-id" : 21,
-"car-model" : "Fydriery",
-"car-made" : "Vpxs",
-"car-price" : 15877.00,
-"category-id" : 8,
-"shop-id" : 12,
-}

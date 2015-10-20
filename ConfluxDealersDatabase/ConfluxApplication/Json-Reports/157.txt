@@ -1,8 +1,0 @@
-{
-"car-id" : 157,
-"car-model" : "Dal",
-"car-made" : "Dvhntf",
-"car-price" : 82576.00,
-"category-id" : 9,
-"shop-id" : 10,
-}

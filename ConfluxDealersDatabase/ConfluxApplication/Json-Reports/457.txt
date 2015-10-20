@@ -1,8 +1,0 @@
-{
-"car-id" : 457,
-"car-model" : "Pec",
-"car-made" : "Rik",
-"car-price" : 11858.00,
-"category-id" : 9,
-"shop-id" : 15,
-}

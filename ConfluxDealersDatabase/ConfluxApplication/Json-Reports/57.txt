@@ -1,8 +1,0 @@
-{
-"car-id" : 57,
-"car-model" : "Eqzn",
-"car-made" : "Hifardtmu",
-"car-price" : 62956.00,
-"category-id" : 1,
-"shop-id" : 4,
-}

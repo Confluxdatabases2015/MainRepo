@@ -1,8 +1,0 @@
-{
-"car-id" : 487,
-"car-model" : "Hzu",
-"car-made" : "Eqc",
-"car-price" : 94626.00,
-"category-id" : 1,
-"shop-id" : 14,
-}

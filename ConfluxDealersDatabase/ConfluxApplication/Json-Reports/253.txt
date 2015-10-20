@@ -1,8 +1,0 @@
-{
-"car-id" : 253,
-"car-model" : "Baxib",
-"car-made" : "Ogvpgi",
-"car-price" : 57018.00,
-"category-id" : 6,
-"shop-id" : 12,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 311,
-"car-model" : "Zlimyrdejc",
-"car-made" : "Iwr",
-"car-price" : 52496.00,
-"category-id" : 9,
-"shop-id" : 7,
-}

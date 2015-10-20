@@ -1,8 +1,0 @@
-{
-"car-id" : 281,
-"car-model" : "Kyn",
-"car-made" : "Wncheseb",
-"car-price" : 32936.00,
-"category-id" : 8,
-"shop-id" : 14,
-}

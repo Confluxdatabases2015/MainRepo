@@ -1,8 +1,0 @@
-{
-"car-id" : 177,
-"car-model" : "Tnbqnle",
-"car-made" : "Mbn",
-"car-price" : 10387.00,
-"category-id" : 6,
-"shop-id" : 7,
-}

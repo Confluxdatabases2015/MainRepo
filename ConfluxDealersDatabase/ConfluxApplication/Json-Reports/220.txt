@@ -1,8 +1,0 @@
-{
-"car-id" : 220,
-"car-model" : "Suypujlcb",
-"car-made" : "Sqrpkcnev",
-"car-price" : 73508.00,
-"category-id" : 5,
-"shop-id" : 13,
-}

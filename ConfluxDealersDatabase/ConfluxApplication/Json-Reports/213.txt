@@ -1,8 +1,0 @@
-{
-"car-id" : 213,
-"car-model" : "Hta",
-"car-made" : "Ysg",
-"car-price" : 38591.00,
-"category-id" : 3,
-"shop-id" : 11,
-}

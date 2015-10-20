@@ -1,8 +1,0 @@
-{
-"car-id" : 251,
-"car-model" : "Cdd",
-"car-made" : "Qpsvcanu",
-"car-price" : 63815.00,
-"category-id" : 6,
-"shop-id" : 6,
-}

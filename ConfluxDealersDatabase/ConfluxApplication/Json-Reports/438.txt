@@ -1,8 +1,0 @@
-{
-"car-id" : 438,
-"car-model" : "Epgdvf",
-"car-made" : "Gxmran",
-"car-price" : 61996.00,
-"category-id" : 6,
-"shop-id" : 5,
-}

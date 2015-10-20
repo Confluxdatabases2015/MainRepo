@@ -1,8 +1,0 @@
-{
-"car-id" : 345,
-"car-model" : "Nkfe",
-"car-made" : "Ioa",
-"car-price" : 86674.00,
-"category-id" : 7,
-"shop-id" : 15,
-}

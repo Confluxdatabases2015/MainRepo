@@ -1,8 +1,0 @@
-{
-"car-id" : 453,
-"car-model" : "Uotjajidir",
-"car-made" : "Lesyragaht",
-"car-price" : 38980.00,
-"category-id" : 8,
-"shop-id" : 16,
-}

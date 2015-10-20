@@ -1,8 +1,0 @@
-{
-"car-id" : 343,
-"car-model" : "Oedyrcvru",
-"car-made" : "Rleswaw",
-"car-price" : 52589.00,
-"category-id" : 5,
-"shop-id" : 2,
-}

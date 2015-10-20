@@ -1,8 +1,0 @@
-{
-"car-id" : 225,
-"car-model" : "Jlhmh",
-"car-made" : "Bikes",
-"car-price" : 71898.00,
-"category-id" : 8,
-"shop-id" : 1,
-}

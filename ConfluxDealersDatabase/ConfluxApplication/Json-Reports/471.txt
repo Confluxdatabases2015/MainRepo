@@ -1,8 +1,0 @@
-{
-"car-id" : 471,
-"car-model" : "Ejgf",
-"car-made" : "Sqjnrxitti",
-"car-price" : 54339.00,
-"category-id" : 6,
-"shop-id" : 19,
-}

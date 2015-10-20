@@ -1,8 +1,0 @@
-{
-"car-id" : 18,
-"car-model" : "Hegtu",
-"car-made" : "Cmffg",
-"car-price" : 11513.00,
-"category-id" : 6,
-"shop-id" : 4,
-}

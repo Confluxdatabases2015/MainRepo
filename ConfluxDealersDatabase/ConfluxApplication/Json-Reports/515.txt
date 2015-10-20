@@ -1,8 +1,0 @@
-{
-"car-id" : 515,
-"car-model" : "Ufnlxixsym",
-"car-made" : "Rornbyn",
-"car-price" : 24564.00,
-"category-id" : 5,
-"shop-id" : 8,
-}

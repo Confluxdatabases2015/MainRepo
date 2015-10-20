@@ -1,8 +1,0 @@
-{
-"car-id" : 369,
-"car-model" : "Qoogutge",
-"car-made" : "Xdtnwiyxi",
-"car-price" : 35937.00,
-"category-id" : 2,
-"shop-id" : 5,
-}

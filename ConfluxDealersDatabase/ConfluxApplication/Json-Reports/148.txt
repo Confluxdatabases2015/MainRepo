@@ -1,8 +1,0 @@
-{
-"car-id" : 148,
-"car-model" : "Wyqzvzh",
-"car-made" : "Zourytad",
-"car-price" : 35519.00,
-"category-id" : 5,
-"shop-id" : 18,
-}

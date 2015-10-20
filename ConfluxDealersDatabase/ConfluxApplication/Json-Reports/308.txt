@@ -1,8 +1,0 @@
-{
-"car-id" : 308,
-"car-model" : "Bhre",
-"car-made" : "Qto",
-"car-price" : 99845.00,
-"category-id" : 6,
-"shop-id" : 13,
-}

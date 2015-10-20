@@ -1,8 +1,0 @@
-{
-"car-id" : 188,
-"car-model" : "Tslegivig",
-"car-made" : "Acc",
-"car-price" : 48163.00,
-"category-id" : 6,
-"shop-id" : 10,
-}

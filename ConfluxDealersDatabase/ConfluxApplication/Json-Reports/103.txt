@@ -1,8 +1,0 @@
-{
-"car-id" : 103,
-"car-model" : "Fpiam",
-"car-made" : "Nuv",
-"car-price" : 66298.00,
-"category-id" : 3,
-"shop-id" : 2,
-}

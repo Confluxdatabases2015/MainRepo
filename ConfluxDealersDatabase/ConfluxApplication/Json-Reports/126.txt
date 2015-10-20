@@ -1,8 +1,0 @@
-{
-"car-id" : 126,
-"car-model" : "Ykldylrrim",
-"car-made" : "Kmpik",
-"car-price" : 58821.00,
-"category-id" : 3,
-"shop-id" : 12,
-}

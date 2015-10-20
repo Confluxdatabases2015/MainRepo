@@ -1,8 +1,0 @@
-{
-"car-id" : 532,
-"car-model" : "Fepejwo",
-"car-made" : "Oeec",
-"car-price" : 94736.00,
-"category-id" : 3,
-"shop-id" : 7,
-}

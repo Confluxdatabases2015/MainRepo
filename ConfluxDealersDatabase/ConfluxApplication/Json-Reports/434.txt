@@ -1,8 +1,0 @@
-{
-"car-id" : 434,
-"car-model" : "Koiohm",
-"car-made" : "Ctca",
-"car-price" : 74886.00,
-"category-id" : 7,
-"shop-id" : 3,
-}

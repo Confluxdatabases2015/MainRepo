@@ -1,8 +1,0 @@
-{
-"car-id" : 506,
-"car-model" : "Bixd",
-"car-made" : "Cns",
-"car-price" : 25266.00,
-"category-id" : 9,
-"shop-id" : 8,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 254,
-"car-model" : "Wqxqn",
-"car-made" : "Fllcz",
-"car-price" : 30149.00,
-"category-id" : 9,
-"shop-id" : 17,
-}

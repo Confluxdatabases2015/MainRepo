@@ -1,8 +1,0 @@
-{
-"car-id" : 357,
-"car-model" : "Rcb",
-"car-made" : "Rtnrwcauwn",
-"car-price" : 22852.00,
-"category-id" : 1,
-"shop-id" : 1,
-}

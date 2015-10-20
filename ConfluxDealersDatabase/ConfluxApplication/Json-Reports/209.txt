@@ -1,8 +1,0 @@
-{
-"car-id" : 209,
-"car-model" : "Qikjrhgpn",
-"car-made" : "Jjol",
-"car-price" : 93713.00,
-"category-id" : 1,
-"shop-id" : 16,
-}

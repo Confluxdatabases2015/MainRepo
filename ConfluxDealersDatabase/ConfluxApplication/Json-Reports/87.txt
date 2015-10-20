@@ -1,8 +1,0 @@
-{
-"car-id" : 87,
-"car-model" : "Teh",
-"car-made" : "Eigynyobxm",
-"car-price" : 63361.00,
-"category-id" : 8,
-"shop-id" : 6,
-}

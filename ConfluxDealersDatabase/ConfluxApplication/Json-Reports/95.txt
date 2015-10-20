@@ -1,8 +1,0 @@
-{
-"car-id" : 95,
-"car-model" : "Xgx",
-"car-made" : "Jyapne",
-"car-price" : 70457.00,
-"category-id" : 2,
-"shop-id" : 10,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 521,
-"car-model" : "Rvqvvss",
-"car-made" : "Gydyc",
-"car-price" : 72696.00,
-"category-id" : 10,
-"shop-id" : 19,
-}

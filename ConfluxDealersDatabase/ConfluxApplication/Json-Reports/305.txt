@@ -1,8 +1,0 @@
-{
-"car-id" : 305,
-"car-model" : "Unjkjb",
-"car-made" : "Cewka",
-"car-price" : 56268.00,
-"category-id" : 1,
-"shop-id" : 11,
-}

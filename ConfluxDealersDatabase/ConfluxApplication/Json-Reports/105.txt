@@ -1,8 +1,0 @@
-{
-"car-id" : 105,
-"car-model" : "Sgnz",
-"car-made" : "Frpwlg",
-"car-price" : 80379.00,
-"category-id" : 7,
-"shop-id" : 15,
-}

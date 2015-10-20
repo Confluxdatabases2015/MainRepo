@@ -1,8 +1,0 @@
-{
-"car-id" : 201,
-"car-model" : "Ckf",
-"car-made" : "Uhgvmnhs",
-"car-price" : 33847.00,
-"category-id" : 9,
-"shop-id" : 13,
-}

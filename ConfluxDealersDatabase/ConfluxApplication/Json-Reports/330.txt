@@ -1,8 +1,0 @@
-{
-"car-id" : 330,
-"car-model" : "Wiwbh",
-"car-made" : "Ofod",
-"car-price" : 30001.00,
-"category-id" : 1,
-"shop-id" : 5,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 407,
-"car-model" : "Zkuzb",
-"car-made" : "Tbegbyau",
-"car-price" : 44645.00,
-"category-id" : 9,
-"shop-id" : 15,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 354,
-"car-model" : "Obcynnt",
-"car-made" : "Qfezy",
-"car-price" : 44612.00,
-"category-id" : 10,
-"shop-id" : 20,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 444,
-"car-model" : "Tsudnoli",
-"car-made" : "Php",
-"car-price" : 76977.00,
-"category-id" : 8,
-"shop-id" : 6,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 195,
-"car-model" : "Kidli",
-"car-made" : "Ifkv",
-"car-price" : 91116.00,
-"category-id" : 1,
-"shop-id" : 15,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 327,
-"car-model" : "Mjxauheos",
-"car-made" : "Ermb",
-"car-price" : 49455.00,
-"category-id" : 10,
-"shop-id" : 17,
-}

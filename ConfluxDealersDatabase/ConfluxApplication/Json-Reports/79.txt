@@ -1,8 +1,0 @@
-{
-"car-id" : 79,
-"car-model" : "Xfre",
-"car-made" : "Jmoqpgvk",
-"car-price" : 25894.00,
-"category-id" : 6,
-"shop-id" : 3,
-}

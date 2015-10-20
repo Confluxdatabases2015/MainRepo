@@ -1,8 +1,0 @@
-{
-"car-id" : 355,
-"car-model" : "Aag",
-"car-made" : "Oyzuydoeg",
-"car-price" : 32920.00,
-"category-id" : 5,
-"shop-id" : 8,
-}

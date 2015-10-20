@@ -1,8 +1,0 @@
-{
-"car-id" : 50,
-"car-model" : "Dksruk",
-"car-made" : "Owosritf",
-"car-price" : 96867.00,
-"category-id" : 6,
-"shop-id" : 4,
-}

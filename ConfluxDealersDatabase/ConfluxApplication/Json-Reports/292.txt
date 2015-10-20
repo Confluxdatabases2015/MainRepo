@@ -1,8 +1,0 @@
-{
-"car-id" : 292,
-"car-model" : "Viujarf",
-"car-made" : "Mjdbapivot",
-"car-price" : 85236.00,
-"category-id" : 5,
-"shop-id" : 7,
-}

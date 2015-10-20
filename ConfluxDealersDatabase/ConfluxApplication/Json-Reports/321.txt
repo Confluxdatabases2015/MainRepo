@@ -1,8 +1,0 @@
-{
-"car-id" : 321,
-"car-model" : "Qyuuporxgb",
-"car-made" : "Ors",
-"car-price" : 90106.00,
-"category-id" : 2,
-"shop-id" : 1,
-}

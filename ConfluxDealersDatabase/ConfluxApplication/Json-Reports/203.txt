@@ -1,8 +1,0 @@
-{
-"car-id" : 203,
-"car-model" : "Hbjd",
-"car-made" : "Urv",
-"car-price" : 96199.00,
-"category-id" : 1,
-"shop-id" : 12,
-}

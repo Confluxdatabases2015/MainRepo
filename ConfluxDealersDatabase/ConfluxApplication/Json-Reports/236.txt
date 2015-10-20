@@ -1,8 +1,0 @@
-{
-"car-id" : 236,
-"car-model" : "Hyeb",
-"car-made" : "Xmitkyodez",
-"car-price" : 99323.00,
-"category-id" : 3,
-"shop-id" : 16,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 16,
-"car-model" : "Dhflubyn",
-"car-made" : "Jweftb",
-"car-price" : 47500.00,
-"category-id" : 2,
-"shop-id" : 11,
-}

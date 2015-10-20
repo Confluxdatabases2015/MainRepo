@@ -1,8 +1,0 @@
-{
-"car-id" : 492,
-"car-model" : "Cnmylvizje",
-"car-made" : "Ldeaiismv",
-"car-price" : 97505.00,
-"category-id" : 1,
-"shop-id" : 13,
-}

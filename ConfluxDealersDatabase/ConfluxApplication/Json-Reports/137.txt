@@ -1,8 +1,0 @@
-{
-"car-id" : 137,
-"car-model" : "Gbtlpn",
-"car-made" : "Tctjkzae",
-"car-price" : 95100.00,
-"category-id" : 3,
-"shop-id" : 15,
-}

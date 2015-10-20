@@ -1,8 +1,0 @@
-{
-"car-id" : 85,
-"car-model" : "Tugyktp",
-"car-made" : "Foswiw",
-"car-price" : 45967.00,
-"category-id" : 9,
-"shop-id" : 12,
-}

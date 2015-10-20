@@ -1,8 +1,0 @@
-{
-"car-id" : 462,
-"car-model" : "Hlliqrb",
-"car-made" : "Ajevdur",
-"car-price" : 44793.00,
-"category-id" : 1,
-"shop-id" : 16,
-}

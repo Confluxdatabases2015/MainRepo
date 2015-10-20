@@ -1,8 +1,0 @@
-{
-"car-id" : 416,
-"car-model" : "Dso",
-"car-made" : "Quic",
-"car-price" : 81070.00,
-"category-id" : 6,
-"shop-id" : 18,
-}

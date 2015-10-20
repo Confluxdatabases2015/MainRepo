@@ -1,8 +1,0 @@
-{
-"car-id" : 403,
-"car-model" : "Obk",
-"car-made" : "Hcnfaio",
-"car-price" : 15956.00,
-"category-id" : 10,
-"shop-id" : 16,
-}

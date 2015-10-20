@@ -1,8 +1,0 @@
-{
-"car-id" : 296,
-"car-model" : "Amyos",
-"car-made" : "Gxmcxbghla",
-"car-price" : 84079.00,
-"category-id" : 1,
-"shop-id" : 15,
-}

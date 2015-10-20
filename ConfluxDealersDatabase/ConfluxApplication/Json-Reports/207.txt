@@ -1,8 +1,0 @@
-{
-"car-id" : 207,
-"car-model" : "Tpn",
-"car-made" : "Qrybzgpgpm",
-"car-price" : 35339.00,
-"category-id" : 8,
-"shop-id" : 14,
-}

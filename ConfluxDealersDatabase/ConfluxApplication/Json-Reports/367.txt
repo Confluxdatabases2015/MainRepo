@@ -1,8 +1,0 @@
-{
-"car-id" : 367,
-"car-model" : "Nfdgw",
-"car-made" : "Qarymrlipd",
-"car-price" : 54732.00,
-"category-id" : 7,
-"shop-id" : 12,
-}

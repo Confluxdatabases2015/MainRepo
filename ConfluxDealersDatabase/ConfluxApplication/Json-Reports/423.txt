@@ -1,8 +1,0 @@
-{
-"car-id" : 423,
-"car-model" : "Fcojetid",
-"car-made" : "Bjngijj",
-"car-price" : 21638.00,
-"category-id" : 9,
-"shop-id" : 18,
-}

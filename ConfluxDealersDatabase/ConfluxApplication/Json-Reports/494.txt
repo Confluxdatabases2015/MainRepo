@@ -1,8 +1,0 @@
-{
-"car-id" : 494,
-"car-model" : "Lgfrn",
-"car-made" : "Dcjiacq",
-"car-price" : 65820.00,
-"category-id" : 2,
-"shop-id" : 4,
-}

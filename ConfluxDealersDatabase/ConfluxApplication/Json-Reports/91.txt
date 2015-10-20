@@ -1,8 +1,0 @@
-{
-"car-id" : 91,
-"car-model" : "Igtniqbwrn",
-"car-made" : "Njprlczc",
-"car-price" : 89183.00,
-"category-id" : 10,
-"shop-id" : 12,
-}

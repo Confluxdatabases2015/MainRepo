@@ -1,8 +1,0 @@
-{
-"car-id" : 86,
-"car-model" : "Rfda",
-"car-made" : "Pmrpnv",
-"car-price" : 48419.00,
-"category-id" : 8,
-"shop-id" : 4,
-}

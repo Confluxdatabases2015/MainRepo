@@ -1,8 +1,0 @@
-{
-"car-id" : 523,
-"car-model" : "Tzca",
-"car-made" : "Wmvp",
-"car-price" : 75780.00,
-"category-id" : 10,
-"shop-id" : 1,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 2,
-"car-model" : "Eyawjvc",
-"car-made" : "Nmjxr",
-"car-price" : 17099.00,
-"category-id" : 8,
-"shop-id" : 19,
-}

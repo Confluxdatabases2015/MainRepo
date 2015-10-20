@@ -1,8 +1,0 @@
-{
-"car-id" : 192,
-"car-model" : "Cvwkrotku",
-"car-made" : "Fidtiskc",
-"car-price" : 43348.00,
-"category-id" : 10,
-"shop-id" : 10,
-}

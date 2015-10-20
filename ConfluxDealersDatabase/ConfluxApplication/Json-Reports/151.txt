@@ -1,8 +1,0 @@
-{
-"car-id" : 151,
-"car-model" : "Ocxd",
-"car-made" : "Ssikdztu",
-"car-price" : 78238.00,
-"category-id" : 5,
-"shop-id" : 6,
-}

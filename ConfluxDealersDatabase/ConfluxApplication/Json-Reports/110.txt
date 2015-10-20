@@ -1,8 +1,0 @@
-{
-"car-id" : 110,
-"car-model" : "Ynrq",
-"car-made" : "Lugnkhsc",
-"car-price" : 46497.00,
-"category-id" : 7,
-"shop-id" : 17,
-}

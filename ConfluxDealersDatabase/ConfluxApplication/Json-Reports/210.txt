@@ -1,8 +1,0 @@
-{
-"car-id" : 210,
-"car-model" : "Gbzysrdblx",
-"car-made" : "Vybh",
-"car-price" : 88502.00,
-"category-id" : 10,
-"shop-id" : 16,
-}

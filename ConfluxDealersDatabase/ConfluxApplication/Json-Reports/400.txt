@@ -1,8 +1,0 @@
-{
-"car-id" : 400,
-"car-model" : "Aifjuwen",
-"car-made" : "Riwgdnnz",
-"car-price" : 39418.00,
-"category-id" : 5,
-"shop-id" : 10,
-}

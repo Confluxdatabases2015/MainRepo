@@ -1,8 +1,0 @@
-{
-"car-id" : 420,
-"car-model" : "Bxsewis",
-"car-made" : "Gfs",
-"car-price" : 24622.00,
-"category-id" : 9,
-"shop-id" : 3,
-}

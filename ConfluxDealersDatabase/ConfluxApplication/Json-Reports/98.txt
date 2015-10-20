@@ -1,8 +1,0 @@
-{
-"car-id" : 98,
-"car-model" : "Mzdvew",
-"car-made" : "Sdu",
-"car-price" : 69387.00,
-"category-id" : 2,
-"shop-id" : 10,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 404,
-"car-model" : "Mfk",
-"car-made" : "Lvkumnossl",
-"car-price" : 62148.00,
-"category-id" : 9,
-"shop-id" : 1,
-}

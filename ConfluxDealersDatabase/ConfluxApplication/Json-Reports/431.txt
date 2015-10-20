@@ -1,8 +1,0 @@
-{
-"car-id" : 431,
-"car-model" : "Qrk",
-"car-made" : "Epjge",
-"car-price" : 75058.00,
-"category-id" : 8,
-"shop-id" : 18,
-}

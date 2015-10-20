@@ -1,8 +1,0 @@
-{
-"car-id" : 250,
-"car-model" : "Gfanlptr",
-"car-made" : "Etedrcbcs",
-"car-price" : 88946.00,
-"category-id" : 10,
-"shop-id" : 3,
-}

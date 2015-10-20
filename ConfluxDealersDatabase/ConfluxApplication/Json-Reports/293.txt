@@ -1,8 +1,0 @@
-{
-"car-id" : 293,
-"car-model" : "Xlnbtm",
-"car-made" : "Ukbrsovlu",
-"car-price" : 57501.00,
-"category-id" : 3,
-"shop-id" : 4,
-}

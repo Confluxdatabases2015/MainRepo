@@ -1,8 +1,0 @@
-{
-"car-id" : 13,
-"car-model" : "Ucig",
-"car-made" : "Ohhiuwchy",
-"car-price" : 18993.00,
-"category-id" : 4,
-"shop-id" : 2,
-}

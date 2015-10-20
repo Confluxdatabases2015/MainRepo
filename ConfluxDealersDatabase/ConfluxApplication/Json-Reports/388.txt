@@ -1,8 +1,0 @@
-{
-"car-id" : 388,
-"car-model" : "Ucruzfkzsq",
-"car-made" : "Nglsew",
-"car-price" : 20459.00,
-"category-id" : 9,
-"shop-id" : 18,
-}

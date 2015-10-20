@@ -1,8 +1,0 @@
-{
-"car-id" : 476,
-"car-model" : "Leesz",
-"car-made" : "Gtfvuvqag",
-"car-price" : 28410.00,
-"category-id" : 10,
-"shop-id" : 2,
-}

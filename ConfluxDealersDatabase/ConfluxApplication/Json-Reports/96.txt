@@ -1,8 +1,0 @@
-{
-"car-id" : 96,
-"car-model" : "Kcgt",
-"car-made" : "Flkxwf",
-"car-price" : 43195.00,
-"category-id" : 2,
-"shop-id" : 14,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 297,
-"car-model" : "Vxdivejpw",
-"car-made" : "Uagtcebnnr",
-"car-price" : 39786.00,
-"category-id" : 8,
-"shop-id" : 6,
-}

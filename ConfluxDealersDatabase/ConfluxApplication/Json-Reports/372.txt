@@ -1,8 +1,0 @@
-{
-"car-id" : 372,
-"car-model" : "Yipalviuwe",
-"car-made" : "Bmn",
-"car-price" : 57484.00,
-"category-id" : 8,
-"shop-id" : 10,
-}

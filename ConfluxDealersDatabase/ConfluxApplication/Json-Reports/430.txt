@@ -1,8 +1,0 @@
-{
-"car-id" : 430,
-"car-model" : "Ghka",
-"car-made" : "Qpwortbleu",
-"car-price" : 79777.00,
-"category-id" : 9,
-"shop-id" : 1,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 512,
-"car-model" : "Djpsxs",
-"car-made" : "Krj",
-"car-price" : 17042.00,
-"category-id" : 1,
-"shop-id" : 13,
-}

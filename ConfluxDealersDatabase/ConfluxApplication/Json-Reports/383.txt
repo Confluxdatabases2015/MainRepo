@@ -1,8 +1,0 @@
-{
-"car-id" : 383,
-"car-model" : "Teiuo",
-"car-made" : "Bvx",
-"car-price" : 90393.00,
-"category-id" : 1,
-"shop-id" : 12,
-}

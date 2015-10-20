@@ -1,8 +1,0 @@
-{
-"car-id" : 465,
-"car-model" : "Eqnmmaa",
-"car-made" : "Jnidwrvbzm",
-"car-price" : 97967.00,
-"category-id" : 6,
-"shop-id" : 15,
-}

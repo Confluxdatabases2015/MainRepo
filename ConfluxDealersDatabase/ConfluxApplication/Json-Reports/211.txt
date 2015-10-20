@@ -1,8 +1,0 @@
-{
-"car-id" : 211,
-"car-model" : "Trx",
-"car-made" : "Wmli",
-"car-price" : 53157.00,
-"category-id" : 10,
-"shop-id" : 17,
-}

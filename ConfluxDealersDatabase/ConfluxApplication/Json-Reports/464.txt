@@ -1,8 +1,0 @@
-{
-"car-id" : 464,
-"car-model" : "Rgjic",
-"car-made" : "Txmhykmhn",
-"car-price" : 99342.00,
-"category-id" : 2,
-"shop-id" : 17,
-}

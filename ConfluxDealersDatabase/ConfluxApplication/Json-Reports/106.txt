@@ -1,8 +1,0 @@
-{
-"car-id" : 106,
-"car-model" : "Sew",
-"car-made" : "Uag",
-"car-price" : 35996.00,
-"category-id" : 2,
-"shop-id" : 15,
-}

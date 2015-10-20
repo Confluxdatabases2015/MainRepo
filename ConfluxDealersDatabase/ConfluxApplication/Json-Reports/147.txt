@@ -1,8 +1,0 @@
-{
-"car-id" : 147,
-"car-model" : "Pylonrsu",
-"car-made" : "Qlionlnoea",
-"car-price" : 19024.00,
-"category-id" : 6,
-"shop-id" : 6,
-}

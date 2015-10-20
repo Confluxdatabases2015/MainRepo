@@ -1,8 +1,0 @@
-{
-"car-id" : 263,
-"car-model" : "Aigyated",
-"car-made" : "Bsrn",
-"car-price" : 37682.00,
-"category-id" : 2,
-"shop-id" : 3,
-}

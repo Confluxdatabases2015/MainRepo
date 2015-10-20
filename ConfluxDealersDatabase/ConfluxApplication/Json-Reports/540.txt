@@ -1,8 +1,0 @@
-{
-"car-id" : 540,
-"car-model" : "Mfppr",
-"car-made" : "Vramsje",
-"car-price" : 41776.00,
-"category-id" : 1,
-"shop-id" : 15,
-}

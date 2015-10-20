@@ -1,8 +1,0 @@
-{
-"car-id" : 500,
-"car-model" : "Eso",
-"car-made" : "Oii",
-"car-price" : 51250.00,
-"category-id" : 5,
-"shop-id" : 13,
-}

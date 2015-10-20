@@ -1,8 +1,0 @@
-{
-"car-id" : 173,
-"car-model" : "Szguuaqka",
-"car-made" : "Sfop",
-"car-price" : 46515.00,
-"category-id" : 7,
-"shop-id" : 4,
-}

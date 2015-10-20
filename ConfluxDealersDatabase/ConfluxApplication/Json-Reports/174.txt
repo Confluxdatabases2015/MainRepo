@@ -1,8 +1,0 @@
-{
-"car-id" : 174,
-"car-model" : "Yay",
-"car-made" : "Vsdrizl",
-"car-price" : 66020.00,
-"category-id" : 3,
-"shop-id" : 19,
-}

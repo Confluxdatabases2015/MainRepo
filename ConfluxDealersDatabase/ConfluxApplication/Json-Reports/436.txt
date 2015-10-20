@@ -1,8 +1,0 @@
-{
-"car-id" : 436,
-"car-model" : "Nlg",
-"car-made" : "Yrf",
-"car-price" : 82425.00,
-"category-id" : 9,
-"shop-id" : 13,
-}

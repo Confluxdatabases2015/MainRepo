@@ -1,8 +1,0 @@
-{
-"car-id" : 20,
-"car-model" : "Vztelmm",
-"car-made" : "Jwerydwan",
-"car-price" : 81429.00,
-"category-id" : 3,
-"shop-id" : 17,
-}

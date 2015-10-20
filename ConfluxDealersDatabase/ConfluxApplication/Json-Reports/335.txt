@@ -1,8 +1,0 @@
-{
-"car-id" : 335,
-"car-model" : "Gwyimry",
-"car-made" : "Mvz",
-"car-price" : 97736.00,
-"category-id" : 7,
-"shop-id" : 10,
-}

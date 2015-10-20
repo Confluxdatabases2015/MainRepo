@@ -1,8 +1,0 @@
-{
-"car-id" : 441,
-"car-model" : "Avxhgjnik",
-"car-made" : "Njfti",
-"car-price" : 92356.00,
-"category-id" : 2,
-"shop-id" : 10,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 417,
-"car-model" : "Ddys",
-"car-made" : "Dbpfzbwk",
-"car-price" : 26217.00,
-"category-id" : 2,
-"shop-id" : 19,
-}

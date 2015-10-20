@@ -1,8 +1,0 @@
-{
-"car-id" : 131,
-"car-model" : "Msiwmbuiac",
-"car-made" : "Zfavydkfen",
-"car-price" : 37965.00,
-"category-id" : 2,
-"shop-id" : 13,
-}

@@ -1,8 +1,0 @@
-{
-"car-id" : 485,
-"car-model" : "Emhdhz",
-"car-made" : "Nrebzgel",
-"car-price" : 78171.00,
-"category-id" : 9,
-"shop-id" : 1,
-}

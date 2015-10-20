@@ -1,8 +1,0 @@
-{
-"car-id" : 261,
-"car-model" : "Byiidx",
-"car-made" : "Faypfhop",
-"car-price" : 50296.00,
-"category-id" : 8,
-"shop-id" : 8,
-}

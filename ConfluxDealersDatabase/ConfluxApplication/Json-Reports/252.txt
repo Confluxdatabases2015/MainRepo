@@ -1,8 +1,0 @@
-{
-"car-id" : 252,
-"car-model" : "Bnf",
-"car-made" : "Wsjdrzqtja",
-"car-price" : 53806.00,
-"category-id" : 10,
-"shop-id" : 17,
-}

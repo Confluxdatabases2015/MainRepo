@@ -1,8 +1,0 @@
-{
-"car-id" : 59,
-"car-model" : "Gtb",
-"car-made" : "Hyjsw",
-"car-price" : 72623.00,
-"category-id" : 4,
-"shop-id" : 4,
-}

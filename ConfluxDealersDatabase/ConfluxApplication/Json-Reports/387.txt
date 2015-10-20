@@ -1,8 +1,0 @@
-{
-"car-id" : 387,
-"car-model" : "Jfq",
-"car-made" : "Ftxiogymtb",
-"car-price" : 58166.00,
-"category-id" : 10,
-"shop-id" : 17,
-}
