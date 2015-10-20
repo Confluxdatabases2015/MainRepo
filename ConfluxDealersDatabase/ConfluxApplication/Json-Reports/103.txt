@@ -1,8 +1,0 @@
-{
-"car-id" : 103,
-"car-model" : "Sgoe",
-"car-made" : "Lhh",
-"car-price" : 69165,00,
-"category-id" : 8,
-"shop-id" : 12,
-}
