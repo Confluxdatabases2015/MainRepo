@@ -1,19 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConfluxDealers.Models
+﻿namespace ConfluxDealers.Models
 {
+    using System;
+    using System.ComponentModel.DataAnnotations;
+
     public class DealerExpense
     {
+        [Key]
         public int Id { get; set; }
 
         public DateTime Month { get; set; }
 
         public decimal Value { get; set; }
 
+        [MaxLength(50)]
         public string DealerName { get; set; }
 
         public override string ToString()
