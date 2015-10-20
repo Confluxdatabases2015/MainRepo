@@ -1,8 +1,0 @@
-{
-"car-id" : 110,
-"car-model" : "Ybwafrky",
-"car-made" : "Kuhzy",
-"car-price" : 96396,00,
-"category-id" : 1,
-"shop-id" : 15,
-}
